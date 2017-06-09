@@ -127,8 +127,6 @@
 		</tr>
 <%
 		}
-		
-		sub_rs.close();
 		rs.close();
 		pstmt.close();
 		conn.close();
